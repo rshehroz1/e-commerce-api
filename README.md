@@ -1,1 +1,1 @@
-# e-commerce-full-project
+# E-commerce-full-project
